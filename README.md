@@ -6,6 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+Weights and Biases report link: https://wandb.ai/savannahlhorrocks-western-governors-university/nyc_airbnb/reports/NYC-Airbnb--VmlldzoxNjYwNzU2NQ
+
+
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
