@@ -8,6 +8,9 @@ In this project you will build such a pipeline.
 
 Weights and Biases report link: https://wandb.ai/savannahlhorrocks-western-governors-university/nyc_airbnb/reports/NYC-Airbnb--VmlldzoxNjYwNzU2NQ
 
+Github Repo: https://github.com/savannahlhorrocks/Project-Build-an-ML-Pipeline-Starter
+
+
 
 
 ## Table of contents
